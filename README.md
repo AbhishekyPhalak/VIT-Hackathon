@@ -10,6 +10,10 @@ This project aims to analyze customer reviews for a restaurant, classify the rev
 
 ## Screenshots
 
+![1](https://github.com/user-attachments/assets/a6ed7d5b-37b6-4243-97cb-bc2eb2749b4b)
+
+![2](https://github.com/user-attachments/assets/612a865e-dc81-4a30-a7d2-b998020242db)
+
 ## Dataset Information
 - The dataset consists of 1000 rows and 2 columns.
   - **Review**: Contains customer feedback (text).
